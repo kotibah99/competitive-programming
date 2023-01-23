@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-/// https://codeforces.com/contest/66/problem/B
+
 
 int main(){
     int n;

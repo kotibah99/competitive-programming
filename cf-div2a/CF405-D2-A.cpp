@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 
-///https://codeforces.com/contest/405/problem/A
+
 
 int main()
 {

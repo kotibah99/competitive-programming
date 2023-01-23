@@ -3,7 +3,7 @@
 #include<set>
 using namespace std;
 
-/// https://codeforces.com/contest/339/problem/A
+
 
 
 int main(){

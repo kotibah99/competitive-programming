@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/768/problem/A
+
 
 int main(){
     int arr[100001]; // 1 2 2 2 2 7

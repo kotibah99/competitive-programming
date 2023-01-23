@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/382/problem/A
+
 
 int main(){
     string s, e, left, right;

@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-/// https://codeforces.com/contest/6/problem/B
+
 
 int main()
 {

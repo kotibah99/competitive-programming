@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/282/problem/A
+
 
 int main(){
     int n, x=0;

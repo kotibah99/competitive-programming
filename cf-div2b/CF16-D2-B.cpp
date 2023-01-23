@@ -3,7 +3,7 @@
 #include<vector>
 using namespace std;
 
-/// https://codeforces.com/contest/16/problem/B
+
 
 bool sortBySec(const pair<int,int> &a, const pair<int,int> &b)
 {

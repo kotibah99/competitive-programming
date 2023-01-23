@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/443/problem/A
 
 /*
 can be done with several ways:

@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-///https://codeforces.com/contest/59/problem/A
+
 
 int main()
 {

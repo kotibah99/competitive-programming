@@ -2,7 +2,7 @@
 #include<queue>
 using namespace std;
 
-/// https://codeforces.com/contest/160/problem/A
+
 
 int main(){
     priority_queue<int> pq;

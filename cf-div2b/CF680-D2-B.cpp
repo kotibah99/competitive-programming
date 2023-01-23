@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/680/problem/B
 
 int main(){
     int n, a, arr[101];

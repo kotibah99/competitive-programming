@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/max-points-on-a-line
+
 #include<bits/stdc++.h>
 using namespace std;
 

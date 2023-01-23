@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-///https://codeforces.com/contest/732/problem/A
+
 
 int main(){
     int k,r;

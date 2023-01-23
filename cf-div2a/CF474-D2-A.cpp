@@ -2,8 +2,6 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/474/problem/A
-
 int main(){
     string str{"qwertyuiopasdfghjkl;zxcvbnm,./"};
     char ch;

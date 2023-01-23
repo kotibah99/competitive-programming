@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/296/problem/A
+
 
 int main(){
     const int MAX = 1001;

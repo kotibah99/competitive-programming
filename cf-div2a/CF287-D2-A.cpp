@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/287/problem/A
+
 
 int main(){
     char grid[4][4];

@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/318/problem/A
+
 
 int main(){
     unsigned long long int n,k;

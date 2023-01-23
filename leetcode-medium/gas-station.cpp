@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/gas-station
+
 #include<bits/stdc++.h>
 using namespace std;
 

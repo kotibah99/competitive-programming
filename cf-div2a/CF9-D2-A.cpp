@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/9/problem/A
+
 
 int main(){
     int Y,W;

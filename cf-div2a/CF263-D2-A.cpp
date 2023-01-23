@@ -2,7 +2,6 @@
 #include<cmath>
 using namespace std;
 
-///https://codeforces.com/contest/263/problem/A
 
 int main(){
     int ROWS = 5;

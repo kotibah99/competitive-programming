@@ -2,7 +2,7 @@
 #include<set>
 using namespace std;
 
-///https://codeforces.com/contest/228/problem/A
+
 
 int main(){
     set<int> st;

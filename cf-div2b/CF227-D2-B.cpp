@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/227/problem/B
+
 
 int main(){
     int n, m;

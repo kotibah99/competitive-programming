@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-/// https://codeforces.com/contest/746/problem/B
+
 
 int main(){
     int n;

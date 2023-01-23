@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/copy-list-with-random-pointer
+
 
 #include<bits/stdc++.h>
 using namespace std;

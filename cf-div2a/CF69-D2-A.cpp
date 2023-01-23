@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/69/problem/A
+
 
 int main(){
     int n, v1,v2,v3;

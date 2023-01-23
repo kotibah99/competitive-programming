@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-/// https://codeforces.com/contest/294/problem/A
+
 
 int main(){
     vector<int> vec;

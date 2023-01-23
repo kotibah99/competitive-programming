@@ -2,7 +2,7 @@
 #include <deque>
 using namespace std;
 
-///https://codeforces.com/contest/381/problem/A
+
 
 int main()
 {

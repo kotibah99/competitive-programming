@@ -3,7 +3,7 @@
 #include<sstream>
 using namespace std;
 
-/// https://codeforces.com/contest/71/problem/A
+
 
 int main(){
     string str;

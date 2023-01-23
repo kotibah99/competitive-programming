@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/problemset/problem/767/A
+
 
 int main(){
     priority_queue<int> pq;

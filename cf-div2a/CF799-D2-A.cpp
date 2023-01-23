@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 
-/// https://codeforces.com/contest/709/problem/A
+
 
 int main(){
     double n,t,k,d;

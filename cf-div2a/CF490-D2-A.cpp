@@ -3,7 +3,6 @@
 #include<algorithm>
 using namespace std;
 
-/// https://codeforces.com/contest/490/problem/A
 
 
 int main(){

@@ -4,7 +4,7 @@
 #include <ctype.h>
 using namespace std;
 
-///https://codeforces.com/contest/112/problem/A
+
 
 int main() {
 

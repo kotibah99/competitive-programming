@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-/// https://codeforces.com/contest/47/problem/B
+
 
 int main(){
     string str;

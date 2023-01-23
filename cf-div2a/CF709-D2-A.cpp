@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/// https://codeforces.com/contest/709/problem/A
+
 
 int main(){
     int n, b, d, a, c=0, sum=0;
